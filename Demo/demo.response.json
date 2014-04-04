@@ -1,0 +1,24 @@
+{
+    "responseMap": {
+        "planMap": [
+            {
+                "order": 2,
+                "id": "14830",
+                "name": "Diebold (Employees and Dependents Only)/AultCare"
+            },
+            {
+                "order": 1,
+                "id": "14831",
+                "name": "Akron Public Schools (Employees and DependentsOnly)/AultCare"
+            },
+            {
+                "order": 3,
+                "id": "14828",
+                "name": "FirstMerit (Employees and Dependents Only)/AultCare"
+            }
+        ],
+        "planName": "Akron Public Schools (Employees and DependentsOnly)/AultCare",
+        "status": "00",
+        "statusMsg": "success"
+    }
+}
