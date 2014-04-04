@@ -1,24 +1,30 @@
-{
-    "responseMap": {
-        "planMap": [
-            {
-                "order": 2,
-                "id": "14830",
-                "name": "Diebold (Employees and Dependents Only)/AultCare"
+{"responseMap": {
+  "planMap": [
+              {
+                "order": 0,
+                "id": "17139",
+                "name": "Absolute Total Care"
             },
-            {
-                "order": 1,
-                "id": "14831",
-                "name": "Akron Public Schools (Employees and DependentsOnly)/AultCare"
-            },
-            {
-                "order": 3,
-                "id": "14828",
-                "name": "FirstMerit (Employees and Dependents Only)/AultCare"
-            }
-        ],
-        "planName": "Akron Public Schools (Employees and DependentsOnly)/AultCare",
-        "status": "00",
-        "statusMsg": "success"
-    }
-}
+	],  
+  "planName": "Absolute Total Care",
+  "carrierMap": {
+		{
+			"order": 2,
+			"id": "35",
+			"name": "BLUE SHIELD CA"
+		},
+		{
+			"order": 1,
+			"id": "36",
+			"name": "BLUECHOICE SC"
+		},
+		{
+			"order": 4,
+			"id": "159",
+			"name": "TUFTS"
+		}
+  },
+  "status": "00",
+  "carrierName": "ABSOLUTE TOTAL CARE",
+  "statusMsg": "success"
+}}
